@@ -1,5 +1,7 @@
 <?php
 
-	echo "Hello, Pepper human worshiper !";
+	$webPage = "<p>Hello, Pepper human worshiper !</p>";
+
+	echo $webPage;
 
 ?>
