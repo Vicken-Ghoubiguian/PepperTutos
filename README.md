@@ -3,8 +3,9 @@ This project consists to develop a website in french about tutorials and technic
 
 ## Contents
 
-1. Useful links
+1. [Useful links](#useful_links)
 
+<a name="useful_links"></a>
 ## Useful links
 
 * the project of default app-launcher by Softbank robotics: https://github.com/softbankrobotics-labs/app-launcher,
