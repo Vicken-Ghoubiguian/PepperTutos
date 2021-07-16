@@ -1,6 +1,10 @@
 # PepperTutos
 This project consists to develop a website in french about tutorials and technical documentation on Softbank robotics' Pepper robot.
 
+## Contents
+
+1. Useful links
+
 ## Useful links
 
 * the project of default app-launcher by Softbank robotics: https://github.com/softbankrobotics-labs/app-launcher,
