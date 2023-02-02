@@ -3,7 +3,8 @@ This project consists to develop a website in french about tutorials and technic
 
 ## Contents
 
-1. [Useful links](#useful_links)
+1. 
+2. [Useful links](#useful_links)
 
 <a name="useful_links"></a>
 ## Useful links
