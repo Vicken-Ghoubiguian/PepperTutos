@@ -5,7 +5,7 @@ This project consists to develop a website in french about tutorials and technic
 
 1. [Introduction](#introduction)
 2. [Presentation](#presentation)
-2. [Useful links](#useful_links)
+3. [Useful links](#useful_links)
 
 <a name="useful_links"></a>
 ## Useful links
